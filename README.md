@@ -1,2 +1,0 @@
-# KeeperAppChallenge
-Created with CodeSandbox
